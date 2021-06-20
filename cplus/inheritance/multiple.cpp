@@ -9,7 +9,7 @@ class A{
 
     public:
         string grand_father="Mobile";
-
+        
         void demo(){
 
         }
